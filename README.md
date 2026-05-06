@@ -40,9 +40,11 @@ The dataset used in this project represents a structured timetable used for anal
 
 📷 Dashboard Preview
 
-![Dashboard](./Screenshot 2026-05-06 124923.png)
+## 📷 Dashboard Preview
 
-![Dashboard](./Screenshot 2026-05-06 125024.png)
+<img src="Screenshot 2026-05-06 124923.png" width="700"/>
+
+<img src="Screenshot 2026-05-06 125024.png" width="700"/>
 
 ---
 
