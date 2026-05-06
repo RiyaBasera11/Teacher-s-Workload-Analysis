@@ -54,6 +54,6 @@ This dashboard helps in understanding workload distribution and improving timeta
 
 ---
 
-🔗 Author
-
-Riya Basera
+## 🔗 Author
+Riya Basera  
+Aspiring Data Analyst
