@@ -8,7 +8,7 @@ The analysis is based on period-wise data, where each period represents a fixed 
 ---
 
 ## 🎯 Objectives
-- Analyze teacher workload  
+- Analyze teacher workload
 - Identify peak class periods  
 - Compare class distribution across days and shifts  
 - Ensure balanced subject allocation  
