@@ -1,5 +1,12 @@
 📊 Teacher Workload Analysis Dashboard
 
+## 📷 Dashboard Preview
+
+<img src="Screenshot 2026-05-06 124923.png" width="700"/>
+
+<img src="Screenshot 2026-05-06 125024.png" width="700"/>
+
+
 📌 Overview
 
 This project presents a Power BI dashboard created to analyze teacher workload and class distribution using a timetable dataset.
@@ -38,15 +45,6 @@ The dataset used in this project represents a structured timetable used for anal
 
 ---
 
-📷 Dashboard Preview
-
-## 📷 Dashboard Preview
-
-<img src="Screenshot 2026-05-06 124923.png" width="700"/>
-
-<img src="Screenshot 2026-05-06 125024.png" width="700"/>
-
----
 
 📌 Conclusion
 
